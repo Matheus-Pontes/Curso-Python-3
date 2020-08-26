@@ -1,0 +1,5 @@
+matheus: 20
+gustavo: 20
+RAFAEL: 15
+GARIBALDO: 42
+JOSUALDO FERREIRA: 62
