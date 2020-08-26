@@ -1,2 +1,2 @@
 # Curso-Python-3
- Curso de python 3 do curso em video do youtube
+ Curso de Python 3 do canal **Curso em Vídeo** no YouTube
